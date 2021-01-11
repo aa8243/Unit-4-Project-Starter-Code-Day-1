@@ -1,0 +1,43 @@
+img {
+    height: 200px;   
+}
+iframe {
+ width: 520px;   
+    border: 0px;
+    color: purple;
+}
+small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 200px;
+}
+
+.gold-frame {
+    border: 10px ridge gold;
+    padding: 5px;
+}
+
+.black-frame {
+    border: 5px black;
+    padding: 10px;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+}
+
+.navigation {
+	display: flex;
+    border: 1px solid white;
+    justify-content: space-around;
+}
+
+body {
+    background-color: darkblue;
+    color: white;
+    
+}
